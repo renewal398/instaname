@@ -119,7 +119,7 @@ export function NameGenerator() {
             </>
           ) : (
             <>
-              <Wand2 className="mr-2" />
+              
               Generate Names
             </>
           )}
